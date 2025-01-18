@@ -1,0 +1,25 @@
+{
+    "translation_catalog" : "waydroid",
+    "entries": [
+        {
+            "path": "system_settings/system/waydroid",
+            "title": "Waydroid",
+            "type": "page",
+            "icon": "image://theme/icon-m-file-apk",
+            "order": 500,
+            "params": {
+                "source": "/usr/share/waydroid/settings/Waydroid.qml"
+            }
+        },
+        {
+            "path": "system_settings/system/waydroid/waydroid_active",
+            "title": "Waydroid™",
+            "type": "custom",
+            "icon": "image://theme/icon-m-file-apk",
+            "params": {
+                "source": "/usr/share/waydroid/settings/EnableSwitch.qml",
+                "type": "grid"
+            }
+        }
+    ]
+}
