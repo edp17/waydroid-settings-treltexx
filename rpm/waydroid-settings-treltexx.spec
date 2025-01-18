@@ -12,7 +12,7 @@ Requires:       dnsmasq
 Requires:       python3-gbinder
 Requires:       python3-gobject
 Requires:       waydroid-sensors
-Requires:       waydroid-gbinder-config-hybris
+Requires:       waydroid-gbinder-config-hybris-treltexx
 Requires:       waydroid-1.2-treltexx
 Requires:       waydroid-vendor17.1-treltexx
 
